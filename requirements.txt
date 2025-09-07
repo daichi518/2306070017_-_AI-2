@@ -1,0 +1,7 @@
+streamlit>=1.10
+pandas
+nltk
+rake-nltk
+requests
+# lightweight Japanese tokenizer not strictly required here, but if you want better Japanese handling:
+# janome
